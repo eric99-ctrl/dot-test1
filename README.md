@@ -1,5 +1,6 @@
 ## Cara Menggunakan
 - pastikan composer sudah diinstall - composer install.
+- copykan file .env dari .env.example
 - Pastikan file .env sudah disetting untuk databasenya pake MySQL.
 - Lakukan proses migrasi database - php artisan migrate.
 - Lakukan start server - php artisan serve.
